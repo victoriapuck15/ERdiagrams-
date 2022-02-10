@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T04:59:38.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="bpGRhJSgKcRZcwxw-dhU" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T05:01:41.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="UTsndFGBFHhAC8X4pbbW" version="16.5.3" type="github">
   <diagram id="7zytc4X0rFM4Li2k81rj" name="Page-1">
     <mxGraphModel dx="1319" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="agzaKm7U5vjEBMNBCcOe-70" value="0..N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agzaKm7U5vjEBMNBCcOe-71" value="temporal constraint (week in this example) controls when certain elements of the data base are open. In this example, the date dictates if the video watching tool is open and accessible to users.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
